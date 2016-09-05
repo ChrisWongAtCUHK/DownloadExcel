@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadExcel", "DownloadExcel\DownloadExcel.csproj", "{07607FA6-E8C7-4805-BCEF-2ADD56CB2A23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelUtility", "ExcelUtility\ExcelUtility.csproj", "{B4BC6A3D-49EF-474A-90EB-98EBACB737E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{07607FA6-E8C7-4805-BCEF-2ADD56CB2A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07607FA6-E8C7-4805-BCEF-2ADD56CB2A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07607FA6-E8C7-4805-BCEF-2ADD56CB2A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BC6A3D-49EF-474A-90EB-98EBACB737E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BC6A3D-49EF-474A-90EB-98EBACB737E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BC6A3D-49EF-474A-90EB-98EBACB737E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BC6A3D-49EF-474A-90EB-98EBACB737E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
